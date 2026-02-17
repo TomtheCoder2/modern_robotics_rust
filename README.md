@@ -12,6 +12,8 @@ Short examples are provided in the documentation of each function.
 ### Example - Inverse Kinematics
 
 ```rust
+#![allow(incomplete_features)] // Needed for math with const generics
+#![feature(generic_const_exprs)]
 use modern_robotics_rust::mat4;
 use modern_robotics_rust::{ikin_space, near_zero};
 use nalgebra::SMatrix;
