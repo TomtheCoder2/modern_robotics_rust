@@ -1,4 +1,5 @@
 /target
 ./src/bin/assignment_ch_8.rs
 .idea
-./src/bin
+/src/bin
+iterates.csv
