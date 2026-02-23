@@ -1,4 +1,6 @@
 # Modern Robotics in Rust
+[<img alt="crates.io" src="https://img.shields.io/crates/v/modern_robotics_rust.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/modern_robotics_rust)
+
 
 This repository contains Rust implementations of algorithms and concepts from the book "Modern Robotics: Mechanics, Planning, and Control" by Kevin M. Lynch and Frank C. Park.
 All functions can be accessed via the root of this crate.
